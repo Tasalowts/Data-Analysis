@@ -11,7 +11,7 @@ from sklearn import metrics
 st.title("04 - Prediction with Linear Regression")
 
 # Load dataset
-df2 = pd.read_csv("./Data.csv")
+df2 = pd.read_csv("./data/Data.csv")
 
 # Drop missing values
 df2 = df2.dropna()
