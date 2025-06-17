@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 
 # Title
-st.title("04 - Prediction with Linear Regression")
+st.title("04 - Shit with Linear Regression")
 
 # Load dataset
 df2 = pd.read_csv("./data/Data.csv")
